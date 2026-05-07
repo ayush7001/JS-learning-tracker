@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Skill Tracker",
   },
   icons: {
-    apple: "/favicon.ico",
+    apple: "/favicon_js.png",
   },
 };
 

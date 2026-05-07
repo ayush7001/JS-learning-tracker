@@ -14,7 +14,7 @@ export default function manifest(): MetadataRoute.Manifest {
     orientation: "portrait",
     icons: [
       {
-        src: "/favicon.ico",
+        src: "/favicon_js.png",
         sizes: "any",
         type: "image/x-icon",
       },
